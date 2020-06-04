@@ -1,6 +1,6 @@
 # CalcEngine
 
-CalcEngine is a basic app that can... 
+CalcEngine is a basic java app that can... 
 - Do basic math operations &amp; data arithmetic
 - Can deal with numeric values as words and numbers
 - Accept input from the user as both command line arguments as well as interactively. 
